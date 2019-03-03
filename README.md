@@ -1,1 +1,4 @@
 # kirtsha
+---
+permalink: /index.html
+---
